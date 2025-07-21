@@ -45,13 +45,15 @@ This dashboard can support:
 ✅ Complete – Ready for demonstration and portfolio inclusion  
 
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 - `Inspired by the turtles in my garden sanctuary`
 - `Thanks to Power BI and GitHub for the tools`
 
-📫 Contact
+## 📫 Contact
 Catherine McKillips
-LinkedIn
-https://www.linkedin.com/in/catherine-mckillips-data-analytics/
-📧 Email: cathymckillips@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/catherine-mckillips-data-analytics)  
+
+## 📧 Email
+cathymckillips@gmail.com
