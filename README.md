@@ -45,5 +45,13 @@ This dashboard can support:
 ✅ Complete – Ready for demonstration and portfolio inclusion  
 
 
-## 📸 Dashboard Preview
-- `Dashboard Preview` - Sample Screen 
+🙌 Acknowledgments
+
+- `Inspired by the turtles in my garden sanctuary`
+- `Thanks to Power BI and GitHub for the tools`
+
+📫 Contact
+Catherine McKillips
+LinkedIn
+https://www.linkedin.com/in/catherine-mckillips-data-analytics/
+📧 Email: cathymckillips@gmail.com
