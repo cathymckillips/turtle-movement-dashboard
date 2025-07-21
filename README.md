@@ -33,9 +33,8 @@ This dashboard can support:
 - **Research & Education** – Explore environmental influences on reptile behavior
 
 ## 📷 Screenshots
-```
 ![Dashboard Screenshot](dashboard-preview.png)
-```
+
 
 ## 📁 Files Included
 
