@@ -36,7 +36,9 @@ This dashboard can support:
 
 - `Turtle_Movement_Dashboard.pbix` – The Power BI dashboard file
 - `README.md` – Project documentation
-- `Dashboard Preview` - Sample Screen 
+- `Dashboard Preview` - Sample Screen
+- `Observation_Data.xlsx` – Source data log
+- `Thumbnails/` – Turtle image thumbnails used in visuals
 
 ## 🗂️ Project Status
 
