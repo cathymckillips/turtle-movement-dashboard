@@ -1,0 +1,552 @@
+﻿Animal,Day,Ate,Month
+Sweet Pea,1,1,May
+Junior,1,1,May
+JJ,1,1,May
+Little Guy,1,1,May
+Newman,1,1,May
+Yellow,1,1,May
+Sweet Pea,2,0,May
+Junior,2,1,May
+JJ,2,1,May
+Little Guy,2,1,May
+Newman,2,0,May
+Yellow,2,1,May
+Sweet Pea,3,0,May
+Junior,3,1,May
+JJ,3,1,May
+Little Guy,3,1,May
+Newman,3,0,May
+Yellow,3,1,May
+Sweet Pea,4,0,May
+Junior,4,1,May
+JJ,4,1,May
+Little Guy,4,0,May
+Newman,4,0,May
+Yellow,4,1,May
+Yellow,5,1,May
+Sweet Pea,5,0,May
+Junior,5,1,May
+JJ,5,1,May
+Little Guy,5,1,May
+Newman,5,1,May
+Junior,6,1,May
+JJ,6,1,May
+Little Guy,6,1,May
+Newman,6,0,May
+Yellow,6,1,May
+Yellow,7,1,May
+Sweet Pea,7,0,May
+Junior,7,1,May
+JJ,7,1,May
+Little Guy,7,1,May
+Newman,7,0,May
+Sweet Pea,8,0,May
+Junior,8,1,May
+JJ,8,1,May
+Little Guy,8,0,May
+Newman,8,0,May
+Yellow,8,1,May
+Yellow,9,0,May
+Sweet Pea,9,0,May
+Junior,9,1,May
+JJ,9,1,May
+Little Guy,9,1,May
+Newman,9,0,May
+Sweet Pea,10,0,May
+Junior,10,1,May
+JJ,10,1,May
+Little Guy,10,1,May
+Newman,10,1,May
+Yellow,10,0,May
+Yellow,11,1,May
+Sweet Pea,11,0,May
+Junior,11,1,May
+JJ,11,1,May
+Little Guy,11,1,May
+Newman,11,1,May
+Sweet Pea,12,0,May
+Junior,12,1,May
+JJ,12,1,May
+Little Guy,12,1,May
+Newman,12,1,May
+Yellow,12,0,May
+Yellow,13,1,May
+Sweet Pea,13,0,May
+Junior,13,1,May
+JJ,13,1,May
+Little Guy,13,0,May
+Newman,13,0,May
+Sweet Pea,14,0,May
+Junior,14,1,May
+JJ,14,1,May
+Little Guy,14,0,May
+Newman,14,0,May
+Yellow,14,0,May
+Yellow,15,0,May
+Sweet Pea,15,0,May
+Junior,15,1,May
+JJ,15,1,May
+Little Guy,15,0,May
+Newman,15,0,May
+Sweet Pea,16,0,May
+Junior,16,1,May
+JJ,16,1,May
+Little Guy,16,0,May
+Newman,16,0,May
+Yellow,16,0,May
+Yellow,17,1,May
+Sweet Pea,17,0,May
+Junior,17,1,May
+JJ,17,1,May
+Little Guy,17,0,May
+Newman,17,0,May
+Sweet Pea,18,0,May
+Junior,18,1,May
+JJ,18,0,May
+Little Guy,18,1,May
+Newman,18,1,May
+Yellow,18,0,May
+Yellow,19,0,May
+Sweet Pea,19,0,May
+Junior,19,1,May
+JJ,19,1,May
+Little Guy,19,1,May
+Newman,19,1,May
+Sweet Pea,20,0,May
+Junior,20,1,May
+JJ,20,1,May
+Little Guy,20,0,May
+Newman,20,0,May
+Yellow,20,1,May
+Yellow,21,0,May
+Sweet Pea,21,0,May
+Junior,21,1,May
+JJ,21,0,May
+Little Guy,21,0,May
+Newman,21,0,May
+Sweet Pea,22,0,May
+Junior,22,1,May
+JJ,22,1,May
+Little Guy,22,0,May
+Newman,22,0,May
+Yellow,22,1,May
+Yellow,23,1,May
+Sweet Pea,23,0,May
+Junior,23,1,May
+JJ,23,1,May
+Little Guy,23,0,May
+Newman,23,0,May
+Sweet Pea,24,0,May
+Junior,24,1,May
+JJ,24,0,May
+Little Guy,24,0,May
+Newman,24,0,May
+Yellow,24,1,May
+Yellow,25,1,May
+Sweet Pea,25,0,May
+Junior,25,1,May
+JJ,25,0,May
+Little Guy,25,0,May
+Newman,25,0,May
+Sweet Pea,26,0,May
+Junior,26,1,May
+JJ,26,1,May
+Little Guy,26,0,May
+Newman,26,0,May
+Yellow,26,1,May
+Yellow,27,1,May
+Sweet Pea,27,0,May
+Junior,27,1,May
+JJ,27,1,May
+Little Guy,27,1,May
+Newman,27,0,May
+Sweet Pea,28,0,May
+Junior,28,1,May
+JJ,28,0,May
+Little Guy,28,0,May
+Newman,28,0,May
+Yellow,28,1,May
+Yellow,29,1,May
+Sweet Pea,29,0,May
+Junior,29,1,May
+JJ,29,0,May
+Little Guy,29,0,May
+Newman,29,0,May
+Sweet Pea,30,0,May
+Junior,30,1,May
+JJ,30,1,May
+Little Guy,30,1,May
+Newman,30,0,May
+Yellow,30,1,May
+Yellow,31,0,May
+Sweet Pea,31,0,May
+Junior,31,0,May
+JJ,31,1,May
+Little Guy,31,1,May
+Newman,31,0,May
+Sweet Pea,1,0,June
+Junior,1,1,June
+JJ,1,1,June
+Little Guy,1,1,June
+Newman,1,1,June
+Yellow,1,1,June
+Yellow,2,1,June
+Sweet Pea,2,0,June
+Junior,2,1,June
+JJ,2,1,June
+Little Guy,2,1,June
+Newman,2,0,June
+Sweet Pea,3,1,June
+Junior,3,1,June
+JJ,3,1,June
+Little Guy,3,1,June
+Newman,3,0,June
+Yellow,3,1,June
+Yellow,4,1,June
+Sweet Pea,4,0,June
+Junior,4,1,June
+JJ,4,1,June
+Little Guy,4,1,June
+Newman,4,0,June
+Sweet Pea,5,0,June
+Junior,5,1,June
+JJ,5,1,June
+Little Guy,5,1,June
+Newman,5,1,June
+Yellow,5,0,June
+Yellow,6,1,June
+Sweet Pea,6,0,June
+Junior,6,1,June
+JJ,6,1,June
+Little Guy,6,1,June
+Newman,6,0,June
+Sweet Pea,7,0,June
+Junior,7,1,June
+JJ,7,1,June
+Little Guy,7,1,June
+Newman,7,0,June
+Yellow,7,1,June
+Yellow,8,1,June
+Sweet Pea,8,0,June
+Junior,8,1,June
+JJ,8,1,June
+Little Guy,8,0,June
+Newman,8,0,June
+Sweet Pea,9,0,June
+Junior,9,1,June
+JJ,9,1,June
+Little Guy,9,1,June
+Newman,9,0,June
+Yellow,9,1,June
+Yellow,10,1,June
+Sweet Pea,10,0,June
+Junior,10,1,June
+JJ,10,1,June
+Little Guy,10,0,June
+Newman,10,0,June
+Sweet Pea,11,0,June
+Junior,11,1,June
+JJ,11,1,June
+Little Guy,11,0,June
+Newman,11,0,June
+Yellow,11,1,June
+Yellow,12,1,June
+Sweet Pea,12,0,June
+Junior,12,1,June
+JJ,12,1,June
+Little Guy,12,0,June
+Newman,12,0,June
+Sweet Pea,13,0,June
+Junior,13,1,June
+JJ,13,1,June
+Little Guy,13,0,June
+Newman,13,0,June
+Yellow,13,1,June
+Yellow,14,1,June
+Sweet Pea,14,0,June
+Junior,14,1,June
+JJ,14,1,June
+Little Guy,14,0,June
+Newman,14,0,June
+Sweet Pea,15,0,June
+Junior,15,1,June
+JJ,15,1,June
+Little Guy,15,0,June
+Newman,15,0,June
+Yellow,15,0,June
+Yellow,16,1,June
+Sweet Pea,16,0,June
+Junior,16,1,June
+JJ,16,1,June
+Little Guy,16,0,June
+Newman,16,0,June
+Sweet Pea,17,0,June
+Junior,17,1,June
+JJ,17,1,June
+Little Guy,17,0,June
+Newman,17,0,June
+Yellow,17,1,June
+Yellow,18,0,June
+Sweet Pea,18,0,June
+Junior,18,1,June
+JJ,18,0,June
+Little Guy,18,1,June
+Newman,18,1,June
+Sweet Pea,19,0,June
+Junior,19,1,June
+JJ,19,1,June
+Little Guy,19,1,June
+Newman,19,1,June
+Yellow,19,1,June
+Yellow,20,1,June
+Sweet Pea,20,0,June
+Junior,20,1,June
+JJ,20,1,June
+Little Guy,20,0,June
+Newman,20,0,June
+Sweet Pea,21,0,June
+Junior,21,1,June
+JJ,21,0,June
+Little Guy,21,0,June
+Newman,21,0,June
+Yellow,21,1,June
+Yellow,22,1,June
+Sweet Pea,22,0,June
+Junior,22,1,June
+JJ,22,1,June
+Little Guy,22,0,June
+Newman,22,0,June
+Sweet Pea,23,0,June
+Junior,23,1,June
+JJ,23,1,June
+Little Guy,23,0,June
+Newman,23,0,June
+Yellow,23,1,June
+Yellow,24,1,June
+Sweet Pea,24,0,June
+Junior,24,1,June
+JJ,24,0,June
+Little Guy,24,0,June
+Newman,24,0,June
+Sweet Pea,25,0,June
+Junior,25,1,June
+JJ,25,0,June
+Little Guy,25,0,June
+Newman,25,0,June
+Yellow,25,1,June
+Yellow,26,1,June
+Sweet Pea,26,0,June
+Junior,26,1,June
+JJ,26,1,June
+Little Guy,26,0,June
+Newman,26,0,June
+Sweet Pea,27,0,June
+Junior,27,1,June
+JJ,27,1,June
+Little Guy,27,1,June
+Newman,27,0,June
+Yellow,27,1,June
+Yellow,28,1,June
+Sweet Pea,28,0,June
+Junior,28,1,June
+JJ,28,0,June
+Little Guy,28,0,June
+Newman,28,0,June
+Sweet Pea,29,0,June
+Junior,29,1,June
+JJ,29,0,June
+Little Guy,29,0,June
+Newman,29,0,June
+Yellow,29,0,June
+Yellow,30,1,June
+Sweet Pea,30,0,June
+Junior,30,1,June
+JJ,30,1,June
+Little Guy,30,0,June
+Newman,30,0,June
+Sweet Pea,1,0,July
+Junior,1,1,July
+JJ,1,1,July
+Little Guy,1,1,July
+Newman,1,1,July
+Yellow,1,1,July
+Yellow,2,1,July
+Sweet Pea,2,0,July
+Junior,2,1,July
+JJ,2,1,July
+Little Guy,2,0,July
+Newman,2,0,July
+Sweet Pea,3,0,July
+Junior,3,1,July
+JJ,3,1,July
+Little Guy,3,0,July
+Newman,3,0,July
+Yellow,3,1,July
+Yellow,4,1,July
+Sweet Pea,4,0,July
+Junior,4,1,July
+JJ,4,1,July
+Little Guy,4,0,July
+Newman,4,0,July
+Sweet Pea,5,0,July
+Junior,5,1,July
+JJ,5,1,July
+Little Guy,5,0,July
+Newman,5,0,July
+Yellow,5,1,July
+Yellow,6,1,July
+Sweet Pea,6,0,July
+Junior,6,1,July
+JJ,6,1,July
+Little Guy,6,0,July
+Newman,6,0,July
+Sweet Pea,7,0,July
+Junior,7,1,July
+JJ,7,1,July
+Little Guy,7,0,July
+Newman,7,0,July
+Yellow,7,1,July
+Yellow,8,1,July
+Sweet Pea,8,0,July
+Junior,8,1,July
+JJ,8,1,July
+Little Guy,8,0,July
+Newman,8,0,July
+Sweet Pea,9,1,July
+Junior,9,0,July
+JJ,9,1,July
+Little Guy,9,1,July
+Newman,9,0,July
+Yellow,9,1,July
+Yellow,10,0,July
+Sweet Pea,10,1,July
+Junior,10,0,July
+JJ,10,1,July
+Little Guy,10,0,July
+Newman,10,0,July
+Sweet Pea,11,1,July
+Junior,11,0,July
+JJ,11,1,July
+Little Guy,11,0,July
+Newman,11,0,July
+Yellow,11,1,July
+Yellow,12,1,July
+Sweet Pea,12,1,July
+Junior,12,0,July
+JJ,12,1,July
+Little Guy,12,0,July
+Newman,12,0,July
+Sweet Pea,13,1,July
+Junior,13,0,July
+JJ,13,1,July
+Little Guy,13,0,July
+Newman,13,0,July
+Yellow,13,1,July
+Yellow,14,0,July
+Sweet Pea,14,1,July
+Junior,14,0,July
+JJ,14,1,July
+Little Guy,14,0,July
+Newman,14,0,July
+Sweet Pea,15,1,July
+Junior,15,0,July
+JJ,15,1,July
+Little Guy,15,0,July
+Newman,15,0,July
+Yellow,15,1,July
+Yellow,16,0,July
+Sweet Pea,16,1,July
+Junior,16,0,July
+JJ,16,1,July
+Little Guy,16,0,July
+Newman,16,0,July
+Sweet Pea,17,1,July
+Junior,17,0,July
+JJ,17,1,July
+Little Guy,17,0,July
+Newman,17,0,July
+Yellow,17,1,July
+Yellow,18,1,July
+Sweet Pea,18,1,July
+Junior,18,1,July
+JJ,18,1,July
+Little Guy,18,0,July
+Newman,18,0,July
+Sweet Pea,19,1,July
+Junior,19,1,July
+JJ,19,1,July
+Little Guy,19,0,July
+Newman,19,0,July
+Yellow,19,1,July
+Yellow,20,1,July
+Sweet Pea,20,1,July
+Junior,20,1,July
+JJ,20,1,July
+Little Guy,20,0,July
+Newman,20,1,July
+Sweet Pea,21,0,July
+Junior,21,0,July
+JJ,21,0,July
+Little Guy,21,0,July
+Newman,21,0,July
+Yellow,21,0,July
+Yellow,22,0,July
+Sweet Pea,22,0,July
+Junior,22,0,July
+JJ,22,0,July
+Little Guy,22,0,July
+Newman,22,0,July
+Sweet Pea,23,0,July
+Junior,23,0,July
+JJ,23,0,July
+Little Guy,23,0,July
+Newman,23,0,July
+Yellow,23,0,July
+Yellow,24,0,July
+Sweet Pea,24,0,July
+Junior,24,0,July
+JJ,24,0,July
+Little Guy,24,0,July
+Newman,24,0,July
+Sweet Pea,25,0,July
+Junior,25,0,July
+JJ,25,0,July
+Little Guy,25,0,July
+Newman,25,0,July
+Yellow,25,0,July
+Yellow,26,0,July
+Sweet Pea,26,0,July
+Junior,26,0,July
+JJ,26,0,July
+Little Guy,26,0,July
+Newman,26,0,July
+Sweet Pea,27,0,July
+Junior,27,0,July
+JJ,27,0,July
+Little Guy,27,0,July
+Newman,27,0,July
+Yellow,27,0,July
+Yellow,28,0,July
+Sweet Pea,28,0,July
+Junior,28,0,July
+JJ,28,0,July
+Little Guy,28,0,July
+Newman,28,0,July
+Sweet Pea,29,0,July
+Junior,29,0,July
+JJ,29,0,July
+Little Guy,29,0,July
+Newman,29,0,July
+Yellow,29,0,July
+Yellow,30,0,July
+Sweet Pea,30,0,July
+Junior,30,0,July
+JJ,30,0,July
+Little Guy,30,0,July
+Newman,30,0,July
+Sweet Pea,31,0,July
+Junior,31,0,July
+JJ,31,0,July
+Little Guy,31,0,July
+Newman,31,0,July
+Yellow,31,0,July
