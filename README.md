@@ -32,6 +32,11 @@ This dashboard can support:
 - **Veterinary and Care Teams** – Spot irregularities in activity
 - **Research & Education** – Explore environmental influences on reptile behavior
 
+## 📷 Screenshots
+```
+![Dashboard Screenshot](images/Dashboard Preview.png)
+```
+
 ## 📁 Files Included
 
 - `Turtle_Movement_Dashboard.pbix` – The Power BI dashboard file
