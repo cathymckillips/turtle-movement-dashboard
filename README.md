@@ -34,7 +34,7 @@ This dashboard can support:
 
 ## 📷 Screenshots
 ```
-![Dashboard Screenshot](images/Dashboard Preview.png)
+![Dashboard Screenshot](Dashboard-Preview.png)
 ```
 
 ## 📁 Files Included
